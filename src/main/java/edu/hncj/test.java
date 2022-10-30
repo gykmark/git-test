@@ -9,7 +9,5 @@ public class test {
         System.out.println("hello hot-fix2!");
         System.out.println("hello hot-fix3!");
         System.out.println("hello pull!");
-        System.out.println("hello push!");
-        System.out.println("hello push!");
     }
 }
